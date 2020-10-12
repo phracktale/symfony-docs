@@ -94,4 +94,4 @@ Use the ``attributes`` option to define the value of hinclude.js options:
        set this option to 'true' to run that JavaScript code #}
     {{ render_hinclude(controller('...'), {attributes: {evaljs: 'true'}}) }}
 
-.. _`hinclude.js`: http://mnot.github.io/hinclude/
+.. _`hinclude.js`: https://github.com/mnot/hinclude
